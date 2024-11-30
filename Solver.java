@@ -1,6 +1,8 @@
 
 public class Solver {
 	public static void main(String[] args) {
+		/*Input by pictures is not yet supported as the models are currently too large to import into GitHub*/
+
 		
 		//beginning state
 		//int cube[] = {0, 0, 0 ,0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5};
